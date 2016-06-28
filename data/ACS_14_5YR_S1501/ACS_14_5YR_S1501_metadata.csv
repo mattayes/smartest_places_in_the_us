@@ -1,0 +1,9 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC07,Total; Estimate; Population 25 years and over
+HC01_MOE_VC07,Total; Margin of Error; Population 25 years and over
+HC01_EST_VC13,Total; Estimate; Population 25 years and over - Bachelor's degree
+HC01_MOE_VC13,Total; Margin of Error; Population 25 years and over - Bachelor's degree
+HC01_EST_VC14,Total; Estimate; Population 25 years and over - Graduate or professional degree
+HC01_MOE_VC14,Total; Margin of Error; Population 25 years and over - Graduate or professional degree
